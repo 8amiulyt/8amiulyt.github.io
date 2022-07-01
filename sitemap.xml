@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://8amiulyt.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://8amiulyt.github.io/aboutme/</loc>
+    </url>
+    <url>
+        <loc>https://8amiulyt.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://8amiulyt.github.io/blog/bash/</loc>
+        <lastmod>2022-06-18</lastmod>
+    </url>
+    <url>
+        <loc>https://8amiulyt.github.io/blog/mywaytolinux/</loc>
+        <lastmod>2022-06-18</lastmod>
+    </url>
+</urlset>
