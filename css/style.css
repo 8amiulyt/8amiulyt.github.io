@@ -13,7 +13,7 @@
     src: url("/fonts/smilecandy.ttf");
   }
   @font-face {
-    font-family: normal;
+    font-family: normal_;
     src: url("/fonts/Regular.ttf");
   }
   @font-face {
@@ -222,9 +222,6 @@ h4{
     padding-right: 50em;
 } 
 
-
-
-
 footer{
     padding: 2em;
 }
@@ -235,7 +232,17 @@ footer{
     color: white;
 }
 
+.textbox{
+    border:white;
+    border-width:2px;
+    border-style:solid;
+    Background-color:black;
+}
 
+.textbox p{
+    font-size: 22px;
+    color: lightgreen;
+}
 
 /* For Mobile or Tablets */
 @media only screen and (max-width: 1280px) {
@@ -300,9 +307,11 @@ h1{
 main img{
     max-width: 250px;
 }
+
 p,li{
     font-size: 1.88em;
 }
+
 .title{
     font-family: rajdhani;
     text-align: center;
@@ -319,10 +328,17 @@ p,li{
 
 .blogtext{
     padding-right: 0;
-{
+}
+
 h4 a{
     font-size: 80%;
 }
+
+.textbox p{
+    font-size: 1.5em;
+    color: lightgreen;
+}
+
 }
 
 
