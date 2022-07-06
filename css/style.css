@@ -275,6 +275,15 @@ p,li{
 
 }
 
+/* default CSS styles */
+@media (prefers-color-scheme: dark) {
+  /* overwrite any default styles when
+     the user has set the Dark appearance */
+}
+@media (prefers-color-scheme: light) {
+  /* overwrite any default styles when
+     the user has set the Light appearance */
+}
 
 /* For Small Mobile Such as Iphone5,SE,Samsung M01*/
 @media only screen and (max-width: 600px) {
