@@ -17,6 +17,3 @@ document.addEventListener('DOMContentLoaded', (event) => {
                             gal.appendChild(img);
                                 }
 });
-
-
-
