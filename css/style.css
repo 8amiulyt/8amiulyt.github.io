@@ -70,11 +70,13 @@ padding: 1em;
 border-style: solid;
 margin-bottom: 9.375em;
 margin-left: 2em;
+margin-right: 5em;
+margin-top: 3.5em;
 }
 
 
 header h1{
-        font-size: 500%;
+        font-size: 450%;
         font-family: 'Chonburi', cursive;
         text-align: center;
         text-shadow: 3px 3px 0px #eb452b,
@@ -89,7 +91,7 @@ header h1{
 }
 
 header p{
-        font-size: 200%;
+        font-size: 150%;
         font-family: smilecandy;
         text-align: center;
 }
@@ -138,12 +140,13 @@ a:hover{
 
 
 nav{
-        padding: 0.3125em;
+        padding: 0.125em;
             margin: 0.625em;
 }
 
 nav a{
         margin: 0.3125em;
+		font-size: 75%;
 }
 
 nav span{
@@ -159,12 +162,12 @@ nav span{
     margin: 0.625em;
     font-family: rajdhani;
     text-align: left;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 .sociallinks a{
     line-height: 120%;
-    font-size: 200%;
+    font-size: 150%;
     font-family: rajdhani;
     text-align: left;
 }
