@@ -90,7 +90,7 @@ header h1{
                      19px 19px 0px #333333; 
 }
 
-header p{
+header blockquote{
         font-size: 150%;
         font-family: smilecandy;
         text-align: center;
@@ -298,7 +298,12 @@ body{
 }
 
 header{
-    margin: 1.5em;
+ margin: 1.5em;
+ max-width: 50em;
+ float: right;
+ padding: 1em;
+ border-style: solid;
+
 }
 
 .panel{
@@ -365,6 +370,13 @@ h4 a{
      font-family: Annie Use Your Telescope;
 }
 
+nav a{
+	font-size: 0.95em;
+}
+
+.sociallinks a{
+font-size: 175%
+}
 }
 
 
